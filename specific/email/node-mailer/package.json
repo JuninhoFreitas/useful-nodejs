@@ -1,0 +1,11 @@
+{
+  "name": "node-mailer-snippet",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/JuninhoFreitas/useful-nodejs.git",
+  "author": "Juninho <brizollajr@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "nodemailer": "^6.7.2"
+  }
+}
