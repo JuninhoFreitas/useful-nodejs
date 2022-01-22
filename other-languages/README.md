@@ -36,6 +36,7 @@ Está será a estrutura de pasta que encontrará aqui:
 Eu sou um desenvolvedor brasileiro, focado no back-end e amante de NodeJs,
 tenho paixão em contribuir com a comunidade e também por programar coisas úteis.
 
+Obs: @neverbackup também sou eu.
 #### Criador dos projetos:
 - MacacoBot, um sniper bot de criptomoedas
 - ChadBot & BlowfBot, Bots para o telegram com alertas de variação de preços de criptos

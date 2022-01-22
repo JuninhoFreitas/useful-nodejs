@@ -35,7 +35,7 @@ This will be the folder structure you will find here:
 I'm a Brazillian developer, focused on the backend and lover of NodeJs,
 i have a passion for contributing to the community and also for programming useful things.
 
-
+ps: @neverbackup is also me.
 #### Project creator:
 - MacacoBot, a cryptocurrency sniper bot
 - ChadBot & BlowfBot, Bots for telegram with crypto price change alerts
