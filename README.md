@@ -1,22 +1,22 @@
 
 # Useful Node.Js codes
 
-Trying to reduce the search time, the objective of this repository is
-accumulate as many useful code snippets for Node.Js in the real world as possible.
-Bringing examples and pieces of code separated by categories and libraries.
-If you don't find what you're looking here, please come back when you've finished your research and open a pull request, **this is an invitation to everyone**.
+Trying to reduce the research time, the goal of this repository is to
+add as many as possible useful, real-world code snippets for Node.js.
+You will find examples and pieces of code separated by categories and libraries.
+If you don't find what you're looking for here, please return when you've finished your research and open a pull request, **this is an invitation for everyone**.
 
 ## Structure
 
 This will be the folder structure you will find here:
 
 ```bash
-- complete //Full codes, ex: an API based in express
+- complete #Full codes, ex: an API based in express
     - {category}
       - {library}
-- other-languages //Translations of Readme
+- other-languages #Translations of Readme
     - português/español
-- specific //Snippets, short snippets of functions to just implement in your code.
+- specific #Snippets, short snippets of functions to just implement in your code.
    - {category}
       - {library}
 ```
@@ -32,11 +32,12 @@ This will be the folder structure you will find here:
 
 
 ## 🚀 About me
-I'm a Brazillian developer, focused on the backend and lover of NodeJs,
-i have a passion for contributing to the community and also for programming useful things.
+I'm a Brazilian developer, focused in backend and lover of NodeJs,
+I have a passion for contributing to the community and also for programming useful things.
 
 ps: @neverbackup is also me.
-#### Project creator:
+
+#### Maker of following projects:
 - MacacoBot, a cryptocurrency sniper bot
 - ChadBot & BlowfBot, Bots for telegram with crypto price change alerts
 
